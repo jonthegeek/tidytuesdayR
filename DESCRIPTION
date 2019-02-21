@@ -25,3 +25,5 @@ Imports:
     readr,
     rstudioapi,
     xml2
+URL: https://github.com/thebioengineer/tidytuesdayR
+BugReports: https://github.com/thebioengineer/tidytuesdayR/issues
